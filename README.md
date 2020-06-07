@@ -1,4 +1,4 @@
-# Autoencoders-image-upscale
+# Autoencoder based image upscaler
 #Weekend_Project : Image upscaling using autoencoder. Trained for car images; easiely trainable on other datasets.
 
 ## Demo  
